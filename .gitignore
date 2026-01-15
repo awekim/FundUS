@@ -1,0 +1,8 @@
+*.cpg
+*.dbf
+&.prj
+*.shp
+*.shx
+*.xml
+*_tract
+tl_2023_*
